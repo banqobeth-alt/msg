@@ -1,9 +1,16 @@
 [
   {
-    "id": "ann_103",
-    "title": "testetsetested",
-    "message": "Annoucements test #4",
-    "tag": "TEST42",
-    "date": "2023-09-31"
+    "id": "ann_102",
+    "title": "New Update 1.2.3 Live!",
+    "message": "We fixed softsub rendering, improved D-pad navigation, and added community review popups.",
+    "tag": "UPDATE",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "ann_101",
+    "title": "Welcome to AnikenTV Announcements",
+    "message": "Stay tuned here for scraper status, new features, and patch notes.",
+    "tag": "INFO",
+    "date": "2026-09-29"
   }
 ]
